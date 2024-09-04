@@ -8,8 +8,6 @@ Welcome to my Showcase Portfolio! This project is a personal portfolio website b
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contact](#contact)
 
 ## Screenshots
 
